@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Challenges</string>
+    <string name="txt_description_home">
+        Hello! My name is Laura Oliveira and I\'m creating this app to practice the knowledges from the Android Traing Program
+        that\'s been offered by the Google Portugal.
+    </string>
+    <string name="btn_home_next"> Next </string>
 </resources>

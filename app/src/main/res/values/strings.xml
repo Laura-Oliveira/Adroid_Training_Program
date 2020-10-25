@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Challenges</string>
+    <string name="txt_name" translatable="false"> Laura Oliveira</string>
+    <string name="txt_description_home">
+        Olá! Me chamo Laura Oliveira e estou criando este app para praticar os conhecimentos do curso Android Training Program
+        que está sendo oferecido pela Google Portugal.
+    </string>
+    <string name="btn_home_next"> Próximo </string>
 </resources>
