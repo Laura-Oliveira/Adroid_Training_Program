@@ -14,32 +14,35 @@
         tools:context=".MainActivity">
 
         <androidx.appcompat.widget.AppCompatImageView
-            android:layout_width="70dp"
-            android:layout_height="70dp"
+            android:id="@+id/img_home_profile"
+            android:layout_width="185dp"
+            android:layout_height="185dp"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="48dp"
-            android:layout_marginBottom="8dp"
+            android:layout_marginBottom="15dp"
             android:src="@mipmap/ic_foto_perfil">
         </androidx.appcompat.widget.AppCompatImageView>
 
         <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/txt_home_title_icon"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:layout_marginBottom="75dp"
+            android:layout_marginBottom="65dp"
             android:text="@string/txt_name"
             android:textAllCaps="true"
-            android:textSize="16sp">
+            android:textSize="16sp"
+            >
         </androidx.appcompat.widget.AppCompatTextView>
 
         <androidx.appcompat.widget.AppCompatTextView
-            android:layout_width="wrap_content"
+            android:id="@+id/txt_home_description"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:layout_marginBottom="75dp"
-            android:layout_marginLeft="15dp"
+            android:layout_marginBottom="85dp"
+            android:textAlignment="center"
             android:text="@string/txt_description_home"
-            android:textAllCaps="true"
             android:textSize="16sp">
         </androidx.appcompat.widget.AppCompatTextView>
 

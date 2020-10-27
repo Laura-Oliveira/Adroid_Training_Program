@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Challenges</string>
+
+    <!-- ================ HOME STRINGS ================-->
     <string name="txt_description_home">
         Hello! My name is Laura Oliveira and I\'m creating this app to practice the knowledges from the Android Traing Program
         that\'s been offered by the Google Portugal.
     </string>
     <string name="btn_home_next"> Next </string>
+
+    <!-- ================ MENU INFO STRINGS ================-->
+    <string name="txt_menu_info_icon_title"> Information </string>
+    <string name="btn_menu_android_training_program"> Android TRaining Program</string>
+    <string name="btn_menu_info_me"> Laura Oliveira\'s Information </string>
+    <string name="btn_menu_code"> Code </string>
+
+    <!-- ================ INFO ABOUT ME STRINGS ================-->
+    <string name="btn_about_me_linkedin">Linkedin</string>
+    <string name="btn_about_me_github">Github</string>
+    <string name="btn_about_me_porfolio">Portfolio</string>
+    <string name="btn_about_me_medium">Medium </string>
+
+
 </resources>

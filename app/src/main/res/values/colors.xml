@@ -9,4 +9,24 @@
     <!-- ================ HOME COLORS ================-->
     <color name="btn_home_next_page">#388E3C</color>
     <color name="txt_home_next_page_color">#EEEEEE</color>
+
+    <!-- ================ MENU COLORS ================-->
+    <color name="icon_info">#2E7D32</color>
+    <color name="btn_menu_android_training_program">#388E3C</color>
+    <color name="txt__menu_android_training_program">#EEEEEE</color>
+    <color name="btn_menu_info_about_me">#388E3C</color>
+    <color name="txt_menu_info_about_me">#EEEEEE</color>
+    <color name="btn_menu_code">#388E3C</color>
+    <color name="txt_menu_code">#EEEEEE</color>
+
+    <!-- ================ ABOUT ME COLORS ================-->
+    <color name="btn_about_me_linkedin">#388E3C</color>
+    <color name="txt_about_me_linkedin">#EEEEEE</color>
+    <color name="btn_about_me_github">#388E3C</color>
+    <color name="txt_about_me_github">#EEEEEE</color>
+    <color name="btn_about_me_portfolio">#388E3C</color>
+    <color name="txt_about_me_portfolio">#EEEEEE</color>
+    <color name="btn_about_me_medium">#388E3C</color>
+    <color name="txt_about_me_medium">#EEEEEE</color>
+
 </resources>
